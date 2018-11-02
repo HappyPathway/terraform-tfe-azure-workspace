@@ -25,3 +25,6 @@ variable "oauth_token" {}
 variable "vault_azure_credentials_path" {}
 variable "vault_github_tokens" {}
 variable "workspace_name" {}
+
+variable "vault_addr" {}
+variable "vault_token" {}
